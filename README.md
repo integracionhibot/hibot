@@ -1,1 +1,1 @@
-"# hibot 2" 
+"# hibot" 
